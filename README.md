@@ -8,6 +8,18 @@
 # Portfolio
 This is my public portfolio for Telling Stories with Data at CMU!
 
+Take a look at my in class example from 10/30:
+
+<div class='tableauPlaceholder' id='viz1761854783685' style='position: relative'><noscript><a href='#'><img alt='Trust in News OrganizationsSource: Simmons Research, 2018 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Me&#47;MediaTrustClassExampleFall25&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='MediaTrustClassExampleFall25&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Me&#47;MediaTrustClassExampleFall25&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>
+<script type='text/javascript'>
+  var divElement = document.getElementById('viz1761854783685');
+  var vizElement = divElement.getElementsByTagName('object')[0];
+  vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';
+  var scriptElement = document.createElement('script');
+  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
+  vizElement.parentNode.insertBefore(scriptElement, vizElement);
+</script>
+
 # About me
 Hi! My name is Isabella (she/her), and I'm a second-year MSPPM Flagship Student in Heinz College. I'm originally from Pittsburgh, Pennsylvania, and I went to the University of Pittsburgh for my undegraduate degree. My primary interests revolve around energy and environmental policy in the United States, but I have a background in Latin American Studies and Political Theory. Fun fact-- I went to Bolivia on study abroad and studied public health systems in the country, along with indigenous spheres of knowledge, and I conducted my own research into public attitudes regarding the political system in Bolivia. So, if you ever need to practice Spanish, let me know, I'd love to chat! 
 
