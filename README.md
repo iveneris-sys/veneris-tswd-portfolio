@@ -42,7 +42,7 @@ For this assignment, make sure you set up and link to a new page.  This page is 
 
 ## Assignment 3&4 HOLDER: [Critique by Design](critique-by-design)
 critique-by-design.md
-[Drug Harms in Great Britian, 2010](dataviz)
+
 
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `critique-by-design.md`.  
 
