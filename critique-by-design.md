@@ -37,6 +37,7 @@ My initial sketch of the data:
 </script>
 
 Another sketch: 
+
 <div class='tableauPlaceholder' id='viz1763081335729' style='position: relative'><noscript><a href='#'><img alt='In Britain: Alcohol, Heroin, and Crack Cocaine Deemed Most Harmful Among Users &amp; Community ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Dr&#47;DrugUse_FirstRedesignIIVeneris&#47;Sheet12&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='DrugUse_FirstRedesignIIVeneris&#47;Sheet12' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Dr&#47;DrugUse_FirstRedesignIIVeneris&#47;Sheet12&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>
 <script type='text/javascript'> 
   var divElement = document.getElementById('viz1763081335729');
@@ -54,11 +55,9 @@ Questions that I asked:
 
 - Can you tell me what you think this is?
 
-- Which data visualization is clearest to you?
+- Which data visualization is the most understandable?
 
 - Is there anything you find surprising or confusing?
-
-- Who do you think is the intended audience for this?
 
 - Is there anything you would change or do differently?
 
@@ -67,13 +66,13 @@ Participant 001: Student - Health Care Analytics - 26 yrs
 Participant 002: Student - Public Policy and Management, DA - 24 yrs
 Participant 003: Student - Entertainment Industry Management - 24 yrs
 
+| P001 | P002 | P003 |
+|---|---|---|
+| Row 1, Cell 1 | Row 1, Cell 2 | Row 1, Cell 3 |
+| Row 2, Cell 1 | Row 2, Cell 2 | Row 2, Cell 3 |
 
 
-| Question | Interview 1 | Interview 2 |
-|----------|-------------|-------------|
-|          |             |             |
-|          |             |             |
-|          |             |             |
+
 
 Synthesis: 
 
