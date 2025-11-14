@@ -42,8 +42,7 @@ For this assignment, make sure you set up and link to a new page.  This page is 
 
 ## Assignment 3&4 HOLDER: [Critique by Design](critique-by-design.md)
 
-
-For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `critique-by-design.md`.  
+To view this assignment, please click the Blue title "Critique by Design"! 
 
 ## Final project HOLDER
 Here it might be helpful to include a high-level description of your final project. 
