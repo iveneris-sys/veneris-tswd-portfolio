@@ -71,12 +71,13 @@ Participant 003: Student - Entertainment Industry Management - 24 yrs
 | Prefer the second visualization | Prefer the second visualization| Prefer the second visualization |
 | Should try to bold more aspects for readability | Should change the color scheme from blue and red to just red | Use dark red. Otherwise, gray is fine.|
 | Fill the circle! | Title is very informative. Maybe you can edit the axes to be more concise, too | Explore opaqueness for the users/others to differentiate. |
+| Try to shift the drug lables for readability. | Try to rotate the graph, as the drug labels are slightly difficult to read. | Maybe you could merge the users/others groups to have a more immediate comparison. |
 
 
 
 Synthesis: 
 
-_What patterns in the feedback emerge?  What did you learn from the feedback?  Based on this feedback, come up with what design changes you think might make the most sense in your final redesign._
+After feedback, I knew that I was on the right track, but I needed to simplify a bit more! I'm in agreement with my groupmates that the second sketch is more enlightening, and I wanted to incorporate some of these design edits. Tableau is a little tricky for me to use, but I definitely want to make the colors a unified dark red/gray scheme, and I want to "pull apart" the data by using the comparisons. Also, I'm happy that they agree that the original title was less than helpful, and that the circles look more put together than the stacked bars. 
 
 ## Step five: build the solution
 
