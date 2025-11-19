@@ -22,10 +22,6 @@ For my project, I am planning on using data from the United States Energy Inform
 
 
 | Name | URL | Description |
-|Existing Nameplate and Net Summer Capacity by Energy Source, Producer Type, and State|https://www.eia.gov/electricity/data/state/|Details Type of Energy Consumption broken down by Year, State, and Energy Type. First Excel Link on website.|
-|Net Generation in United States all Sectors Monthly |(https://www.eia.gov/electricity/data/state/)|Details type of energy generated, amount of energy generated broken down by state, year. Second link on the website.|
-
-| Name | URL | Description |
 |------|-----|-------------|
 |Existing Nameplate and Net Summer Capacity by Energy Source, Producer Type, and State|https://www.eia.gov/electricity/data/state/|Details Type of Energy Consumption broken down by Year, State, and Energy Type. First Excel Link on website.|
 |Net Generation in United States all Sectors Monthly |(https://www.eia.gov/electricity/data/state/)|Details type of energy generated, amount of energy generated broken down by state, year. Second link on the website.|
@@ -35,10 +31,10 @@ For my project, I am planning on using data from the United States Energy Inform
 # Method and medium
 > In a few sentences, you should document how you plan on completing your final project. 
 
-Text here...
+I plan on using Tableau to generate my data visualization, utilizing methods that we learned in class specifically to acheive the "sliding scale" passage of time, and the mapping representation of the United States' energy mix concentrations. I also want to use Shorthand to showcase the story, because I like the interactive component of scrolling down the site to gain more information. I wonder if there's a way to integrate the "sliding scale" effect into Shorthand? I will try to explore this avenue to make my presentation interesting, kind of in the same vein as the wealth-comparison website that we saw in class earlier. 
 
 ## References
-_List any references you used here._
+N/A
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+N/A
