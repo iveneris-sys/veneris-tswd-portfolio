@@ -12,7 +12,7 @@ On a personal level, I'm interested in this topic because I have worked in publi
 
 ## Initial sketches
 
-![alt text](IMG_0599 (1).jpg) "Sketch I")
+![Sketch I of Final Project depicting a map of the United States, the title "The Energy Flip: Top Producers of Fossil Fuels Moving to Renewable Production, Consumption 2001-2024"](IMG_0599 (1).jpg) "Sketch I")
 
 Text here...
 
