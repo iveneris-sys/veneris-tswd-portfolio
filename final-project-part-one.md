@@ -12,6 +12,7 @@ On a personal level, I'm interested in this topic because I have worked in publi
 
 ## Initial sketches
 
+![Sketch I](IMG_0599 (1).jpg) "Sketch I")
 
 Text here...
 
