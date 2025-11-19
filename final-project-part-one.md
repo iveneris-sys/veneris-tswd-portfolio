@@ -12,22 +12,21 @@ On a personal level, I'm interested in this topic because I have worked in publi
 
 ## Initial sketches
 
-![Sketch I of Final Project depicting a map of the United States, the title "The Energy Flip: Top Producers of Fossil Fuels Moving to Renewable Production, Consumption 2001-2024"](IMG_0599 (1).jpg) "Sketch I")
+![Sketch I of Final Project depicting a map of the United States, the title "The Energy Flip: Top Producers of Fossil Fuels Moving to Renewable Production, Consumption 2001-2024"](IMG_0599 (1).jpg) "Sketch I"
 
-Text here...
 
 # The data
 > A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
 
-Text here...
+For my project, I am planning on using data from the United States Energy Information Administration (EIA). The EIA is an independent, non-partisan administration that collects data and applies statisical analyses for use by policymakers and the public alike. The datasets I will use are publicly available, and consist of two spreadsheets: the first of which details Net Energy Generation in the United States, broken down by year/state/type of energy, and the second of which details Consumption broken down by year/state/type of energy. Below are the links to my data. 
 
-> A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
 
 | Name | URL | Description |
-|------|-----|-------------|
-|      |     |             |
-|      |     |             |
-|      |     |             |
+|Existing Nameplate and Net Summer Capacity by Energy Source, Producer Type, and State|https://www.eia.gov/electricity/data/state/|Details Type of Energy Consumption broken down by Year, State, and Energy Type. First Excel Link on website.|
+|Net Generation in United States all Sectors Monthly |(https://www.eia.gov/electricity/data/state/)|Details type of energy generated, amount of energy generated broken down by state, year. Second link on the website.|
+
+        
+
 
 # Method and medium
 > In a few sentences, you should document how you plan on completing your final project. 
