@@ -25,7 +25,11 @@ For my project, I am planning on using data from the United States Energy Inform
 |Existing Nameplate and Net Summer Capacity by Energy Source, Producer Type, and State|https://www.eia.gov/electricity/data/state/|Details Type of Energy Consumption broken down by Year, State, and Energy Type. First Excel Link on website.|
 |Net Generation in United States all Sectors Monthly |(https://www.eia.gov/electricity/data/state/)|Details type of energy generated, amount of energy generated broken down by state, year. Second link on the website.|
 
-        
+| Name | URL | Description |
+|------|-----|-------------|
+|Existing Nameplate and Net Summer Capacity by Energy Source, Producer Type, and State|https://www.eia.gov/electricity/data/state/|Details Type of Energy Consumption broken down by Year, State, and Energy Type. First Excel Link on website.|
+|Net Generation in United States all Sectors Monthly |(https://www.eia.gov/electricity/data/state/)|Details type of energy generated, amount of energy generated broken down by state, year. Second link on the website.|
+
 
 
 # Method and medium
