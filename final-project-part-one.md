@@ -16,7 +16,6 @@ On a personal level, I'm interested in this topic because I have worked in publi
 
 
 # The data
-> A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
 
 For my project, I am planning on using data from the United States Energy Information Administration (EIA). The EIA is an independent, non-partisan administration that collects data and applies statisical analyses for use by policymakers and the public alike. The datasets I will use are publicly available, and consist of two spreadsheets: the first of which details Net Energy Generation in the United States, broken down by year/state/type of energy, and the second of which details Consumption broken down by year/state/type of energy. Below are the links to my data. 
 
@@ -31,9 +30,9 @@ The data I will use span many more years than I will show. I want to start with 
 
 
 # Method and medium
-> In a few sentences, you should document how you plan on completing your final project. 
 
 I plan on using Tableau to generate my data visualization, utilizing methods that we learned in class specifically to acheive the "sliding scale" passage of time, and the mapping representation of the United States' energy mix concentrations. I also want to use Shorthand to showcase the story, because I like the interactive component of scrolling down the site to gain more information. I wonder if there's a way to integrate the "sliding scale" effect into Shorthand? I will try to explore this avenue to make my presentation interesting, kind of in the same vein as the wealth-comparison website that we saw in class earlier. 
+
 
 ## References
 N/A
