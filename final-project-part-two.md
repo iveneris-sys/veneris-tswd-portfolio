@@ -21,12 +21,12 @@ Moving forward with user research, I want to cover a wide age-range from early 2
 
 The following are my participants: 
 
-P001: 26, Working Professional, Middle Class, Non-degree holder/
-P002: 24, Law Student, Middle Class, Undergraduate degree holder/
-P003: 25, Working Professional, Lower-Middle Class, Undergraduate degree holder/
-P004: 46, Working Professional, Upper-Middle Class, Non-degree holder/
-P005: 63, Retired, Lower-Middle Class, Non-degree holder/
-P006: 23, Unemployed, Middle Class, Undergraduate degree holder/
+- P001: 26, Working Professional, Middle Class, Non-degree holder
+- P002: 24, Law Student, Middle Class, Undergraduate degree holder
+- P003: 25, Working Professional, Lower-Middle Class, Undergraduate degree holder
+- P004: 46, Working Professional, Upper-Middle Class, Non-degree holder
+- P005: 63, Retired, Lower-Middle Class, Non-degree holder
+- P006: 23, Unemployed, Middle Class, Undergraduate degree holder
 
 ## Interview script
 > List the goals from your research, and the questions you intend to ask. 
