@@ -8,9 +8,25 @@ Text here!
 # User research 
 
 ## Target audience
-> Include your approach to identifying representative individuals, and who you hope to reach with your story. 
+> Include your approach to identifying representative individuals, and who you hope to reach with your story.
+Since the story I want to detail is universally applicable, I want to venture out of the university sphere to get feedback on what's working with my storyboard and visualizations, and what's falling short.
 
-Text here!
+Since I want to tell a story about energy generation and consumption moving away from fossil fuels to cleaner energy like wind and solar, I want my message to be clearly understood by the audience that otherwise does not have a background in climate change or energy systems. My visualizations should not be complex: they should be clear-cut depictions of the changes in the energy mix with little room for interpretation. My presentation on shortform should not be distracting with unnecesary images or gifs clouding the simple, effective data visualizations. 
+
+To make sure that my narrative is focused through the presentation, I want to have a wide sample of users to review my working project and let me know what messaging is not translated. 
+
+>Is there enough context for someone who doesn't know about energy systems? Why does this topic matter? What implication does the energy flip have for the future? Is the presentation visually appealing? 
+
+Moving forward with user research, I want to cover a wide age-range from early 20s to mid-60s. Additionally, I want to speak with working profesisonals, graduate students, and non-degree holders, as well as individuals from different socio-economic groups. I decided on this range of users because the topic of the energy flip is so encompassing: the energy transition will impact everyone in the United States, and energy policy broadly has fiscal implications that really change the economic reality for everyone-- think the 1970s oil crisis and the mess that came from that! I want my messaging to land for a wider audience than just industry stakeholders who can be involved in utilities or infrastructure. 
+
+The following are my participants: 
+
+P001: 26, Working Professional, Middle Class, Non-degree holder
+P002: 24, Law Student, Middle Class, Undergraduate degree holder
+P003: 25, Working Professional, Lower-Middle Class, Undergraduate degree holder
+P004: 46, Working Professional, Upper-Middle Class, Non-degree holder
+P005: 63, Retired, Lower-Middle Class, Non-degree holder
+P006: 23, Unemployed, Middle Class, Undergraduate degree holder
 
 ## Interview script
 > List the goals from your research, and the questions you intend to ask. 
@@ -64,5 +80,5 @@ Text here!
 _List any references you used here._
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+No AI used to complete Part II. 
 
