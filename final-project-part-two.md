@@ -42,7 +42,7 @@ During these interviews, I want to identify points of confusion that may arise r
 
 
 ### Script
-Hello [Name]! Thank you for joining me [over zoom/in person] to review my project on energy consumption and generation in the United States. During this session, I will [give you the link to my site/present the site on my laptop] for 5 minutes. In that time, you may scroll and interact with the shorthand site. After those 5 minutes, I will ask you a series of 5 questions relating to your experience interacting with my shorthand site and exploring the visualizations included. I will record your responses and key takeaways, but your personal information like name, age, or other identifying features will not be recorded. 
+Hello [Name]! Thank you for joining me [over zoom/in person] to review my project on energy consumption and generation in the United States. During this session, I will [give you the link to my site/present the site on my laptop] for 5 minutes. In that time, you may scroll and interact with the shorthand site. After those 5 minutes, I will ask you a series of 5 questions relating to your experience interacting with my shorthand site and exploring the visualizations included. I will record your responses and key takeaways, but your personal information like name, location, or other identifying features will not be recorded. 
 
 [Send link/pull up site]
 
