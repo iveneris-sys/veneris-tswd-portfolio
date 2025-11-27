@@ -26,6 +26,7 @@ The following are my participants:
 - P002: 24, Law Student
 - P003: 52, Working Professional
 - P004: 25, Graduate Student
+- P005: 46, Working Professional
 
 ## Interview script
 
@@ -53,13 +54,13 @@ Thank you!
 ## Interview findings
 
 
-| Questions               | Interview 1 - 24, Student | Interview 2 - 26, Working Professional | Interview 3 - 25, Grad Student |Interview 4 - 52, Working Professional | 
+| Questions               | Interview 1 - 24, Student | Interview 2 - 26, Working Professional | Interview 3 - 25, Grad Student |Interview 4 - 52, Working Professional | Interview 5 - 46, Working Professional
 |-------------------------|--------------------------------|-------------|-------------|------------|
-| Does the story flow smoothly between sections?  | Yes, the story is easy to follow between sections.| Yes.|Yes, but there can be more context for the first graph. I like the narrative section at the beginning, but that could use more detail.|Without context, the photos included do not add to your story. Maybe add a blurb under. 
-|  What context do you wish you saw in the current presentation?|The horizontal bar graphs explaining the exponential growth of renewable usage was a bit confusing to grasp, so maybe some more explainers there would be helpful|There's a lot of info on each graph, so it was hard to narrow down the focus. |More descriptions under the graph rather than in the graph. Clean up the graphs more, because they're distracting right now.|The photos are the main problem for me, they don't really add to the context at all. 
-|When using the map functions, are you able to navigate the tools provided? | The map is difficult to interact with, at least on the website.|Yes, but it was very laggy and hard to move cursor.| Yes, but the slider is weird to navigate and it's too crowded.|On my view, the map isn't focused on the U.S., it shows the whole world and it's hard to focus on the U.S. and I can't move the map.
-| In the Tableau visualizations, are the colors overwhelming? |The colors work well with the background, story.|I think it's a professional color grading.|The colors work, but the horizontal bar chart could be colored differently with fewer colors.|The colors are fine and not that distracting. 
-| Is the call to action sufficient? Should there be more primers to the action? |I’d say so. While I don’t know if it really explains *why* Texas has been so open to renewables, that is probably beyond the data-centric scope of this assignment|The call to action was not persuasaive enough for me persoanlly.| Partially, but there should be more of a narrative written before hand to tie activism to the visualizations.|I don't think the call to action works for me. I would need more narrative because it seems random.    
+| Does the story flow smoothly between sections?  | Yes, the story is easy to follow between sections.| Yes.|Yes, but there can be more context for the first graph. I like the narrative section at the beginning, but that could use more detail.|Without context, the photos included do not add to your story. Maybe add a blurb under.|Not really, I have to read the chart titles to get more information that could be in a description.| 
+|  What context do you wish you saw in the current presentation?|The horizontal bar graphs explaining the exponential growth of renewable usage was a bit confusing to grasp, so maybe some more explainers there would be helpful|There's a lot of info on each graph, so it was hard to narrow down the focus. |More descriptions under the graph rather than in the graph. Clean up the graphs more, because they're distracting right now.|The photos are the main problem for me, they don't really add to the context at all.|I would want a blub under graphs.| 
+|When using the map functions, are you able to navigate the tools provided? | The map is difficult to interact with, at least on the website.|Yes, but it was very laggy and hard to move cursor.| Yes, but the slider is weird to navigate and it's too crowded.|On my view, the map isn't focused on the U.S., it shows the whole world and it's hard to focus on the U.S. and I can't move the map.| I can't really see any other fuel sources other than coal and gas. It might be a problem with the display.|
+| In the Tableau visualizations, are the colors overwhelming? |The colors work well with the background, story.|I think it's a professional color grading.|The colors work, but the horizontal bar chart could be colored differently with fewer colors.|The colors are fine and not that distracting.| The colors are fine but maybe choose lighter colors on the map.| 
+| Is the call to action sufficient? Should there be more primers to the action? |I’d say so. While I don’t know if it really explains *why* Texas has been so open to renewables, that is probably beyond the data-centric scope of this assignment|The call to action was not persuasaive enough for me persoanlly.| Partially, but there should be more of a narrative written before hand to tie activism to the visualizations.|I don't think the call to action works for me. I would need more narrative because it seems random.| Somewhat. I like the conclusion at the end but it could use more support.|    
 
 
 # Identified changes for Part III
