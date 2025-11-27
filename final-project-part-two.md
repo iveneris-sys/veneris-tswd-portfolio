@@ -8,8 +8,8 @@ Here is a link to my storyboard preview that includes all of my data visualizati
 # User research 
 
 ## Target audience
-> Include your approach to identifying representative individuals, and who you hope to reach with your story.
-Since the story I want to detail is universally applicable, I want to venture out of the university sphere to get feedback on what's working with my storyboard and visualizations, and what's falling short.
+
+Since the story I want to detail is applicable to a larger set of people other than graduate students, I want to venture out of the university sphere to get feedback on what's working with my storyboard and visualizations, and what's falling short. I also think that I can be in an echo-chamber with my classmates, or that my friends could overlook things that I should change, so I wanted to ask a variety of people. 
 
 ### Goal
 Since I want to tell a story about energy generation and consumption moving away from fossil fuels to cleaner energy like wind and solar, I want my message to be clearly understood by the audience that otherwise does not have a background in climate change or energy systems. My visualizations should not be complex: they should be clear-cut depictions of the changes in the energy mix with little room for interpretation. My presentation on shortform should not be distracting with unnecesary images or gifs clouding the simple, effective data visualizations. My interviews with users aim to identify points of confusion, points of interest in the data visualizations, and opportunities for design improvement, especially around the narrative structure. Insights from the interviews will  inform the design direction for the third part of this project.
@@ -51,9 +51,7 @@ Hello [Name]! Thank you for joining me [over zoom/in person] to review my projec
 Thank you!
 
 ## Interview findings
-> Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
 
-Text here!
 
 | Questions               | Interview 1 - 24, Student | Interview 2 - 26, Working Professional | Interview 3 - 25, Grad Student |Interview 4 - 52, Working Professional | 
 |-------------------------|--------------------------------|-------------|-------------|------------|
@@ -74,11 +72,9 @@ Text here!
 |The call to action should have more of a build-up|I want to make some adjustments to the presentation, maybe change when the visualizations appear, to be after some body of text to solidify the beginning of the "call to action".                                                                                |
 
 
-
 Overall, I agree with most everything that my interviewers mentioned. The main thing that I agree with centers around the tableau map: it's really finnicky right now! I will need to rewatch some tutorials to clean these visualizations. I also agree that the call to action should be stronger: I'm stuck with how strong the messaging should be, since we shouldn't create anything seen as controversial or too political in class, but I will work on some creative wording to encourage a non-partisan call to action here. 
 
 
-Text here!
 
 ## References
 N/A
