@@ -24,10 +24,8 @@ The following are my participants:
 
 - P001: 26, Working Professional
 - P002: 24, Law Student
-- P003: 25, Working Professional
-- P004: 46, Working Professional
-- P005: 63, Retired
-- P006: 23, Unemployed
+- P003: 52, Working Professional
+- P004: 25, Graduate Student
 
 ## Interview script
 
@@ -57,38 +55,33 @@ Thank you!
 
 Text here!
 
-| Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |Interview 4 | Interview 5 | Interview 6 |
-|-------------------------|--------------------------------|-------------|-------------|------------|-------------|-------------|
-| Question you asked here | Insightful feedback            |             |             |
-|                         |                                |             |             |
-
+| Questions               | Interview 1 - 24, Student | Interview 2 - 26, Working Professional | Interview 3 - 25, Grad Student |Interview 4 - 52, Working Professional | 
+|-------------------------|--------------------------------|-------------|-------------|------------|
+| Does the story flow smoothly between sections?  | Yes, the story is easy to follow between sections.| Yes.|Yes, but there can be more context for the first graph. I like the narrative section at the beginning, but that could use more detail.|Without context, the photos included do not add to your story. Maybe add a blurb under. 
+|  What context do you wish you saw in the current presentation?|The horizontal bar graphs explaining the exponential growth of renewable usage was a bit confusing to grasp, so maybe some more explainers there would be helpful|There's a lot of info on each graph, so it was hard to narrow down the focus. |More descriptions under the graph rather than in the graph. Clean up the graphs more, because they're distracting right now.|The photos are the main problem for me, they don't really add to the context at all. 
+|When using the map functions, are you able to navigate the tools provided? | The map is difficult to interact with, at least on the website.|Yes, but it was very laggy and hard to move cursor.| Yes, but the slider is weird to navigate and it's too crowded.|On my view, the map isn't focused on the U.S., it shows the whole world and it's hard to focus on the U.S. and I can't move the map.
+| In the Tableau visualizations, are the colors overwhelming? |The colors work well with the background, story.|I think it's a professional color grading.|The colors work, but the horizontal bar chart could be colored differently with fewer colors.|The colors are fine and not that distracting. 
+| Is the call to action sufficient? Should there be more primers to the action? |I’d say so. While I don’t know if it really explains *why* Texas has been so open to renewables, that is probably beyond the data-centric scope of this assignment|The call to action was not persuasaive enough for me persoanlly.| Partially, but there should be more of a narrative written before hand to tie activism to the visualizations.|I don't think the call to action works for me. I would need more narrative because it seems random.    
 
 
 # Identified changes for Part III
-> Document the changes you plan on implementing next week to address any issues identified.  
 
-Text here!
 
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
-| Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-| ...add more rows as necessary            |                                                                                 |
+| The map of the U.S. is currently too busy and it's hard to use. | To mediate this, I plan on changing the slider to a "loop" effect that we saw in class. I also want to try to hide the filter details on the right side because it adds to the business.                                                   |
+|I should add more narrative context to accompany the graph|In line with the last comment, I think this will make the graphs less busy. A small description can go a long way, and it will do more heavy lifting.                                                                                           |
+|The call to action should have more of a build-up|I want to make some adjustments to the presentation, maybe change when the visualizations appear, to be after some body of text to solidify the beginning of the "call to action".                                                                                |
 
-> ...include any final thoughts you have here. 
 
-Text here!
 
-# Moodboards / personas
-> If you did this optional part, include details here.  Otherwise remove this section
+Overall, I agree with most everything that my interviewers mentioned. The main thing that I agree with centers around the tableau map: it's really finnicky right now! I will need to rewatch some tutorials to clean these visualizations. I also agree that the call to action should be stronger: I'm stuck with how strong the messaging should be, since we shouldn't create anything seen as controversial or too political in class, but I will work on some creative wording to encourage a non-partisan call to action here. 
+
 
 Text here!
 
 ## References
-_List any references you used here._
+N/A
 
 ## AI acknowledgements
-No AI used to complete Part II. 
-
+I did not use AI on this portion. 
