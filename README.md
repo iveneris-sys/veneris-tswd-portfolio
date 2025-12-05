@@ -37,12 +37,13 @@ I'm really excited about this class! In other courses, I've noticed that I strug
 
 # Portfolio
 
-## Assignment Visualizing Government Debt, G7 Countries: [Visualizing Government Debt](visualizing-government-debt)
-In this assignment, I chose to explore the debt-to-GDP Ratio for the leading G7 Countries. 
+## Assignment Visualizing Government Debt, G7 Countries: [Visualizing Government Debt](dataviz-examples.md)
+In this assignment, I chose to explore the debt-to-GDP Ratio for the leading G7 Countries. This is located on the data-viz examples tab, in the first section!
 
-## Assignment 3&4 HOLDER: [Critique by Design](critique-by-design.md)
 
-To view this assignment, please click the Blue title "Critique by Design"! 
+## Assignment 3&4: Critique By Design - Drug Harms in the UK: [Critique by Design](critique-by-design.md)
+For this assignment, I investigated Drug Harms in the UK, and redesigned an existing viusalization based on concepts we learned in class!  
+
 
 ## Final project | The Energy Flip: The Transition to Clean Energy in the United States
 For my project, I investigated the transition to renewables in the United States, and what policies have helped states strive to make the energy flip. Explore Below!
