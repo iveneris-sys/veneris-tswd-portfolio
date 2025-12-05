@@ -44,18 +44,13 @@ For this assignment, make sure you set up and link to a new page.  This page is 
 
 To view this assignment, please click the Blue title "Critique by Design"! 
 
-## Final project HOLDER
+## Final project | The Energy Flip: The Transition to Clean Energy in the United States
 For my project, I investigated the transition to renewables in the United States, and what policies have helped states strive to make the energy flip. Explore Below!
-[Part I](final-project-part-one.md)
-[Part II](final-project-part-two.md)
-[Part III](final-project-part-three.md)
+- [Part I](final-project-part-one.md)
+- [Part II](final-project-part-two.md)
+- [Part III](final-project-part-three.md)
 
 ---
-
-
-
-
-
 
 
 
