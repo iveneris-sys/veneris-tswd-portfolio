@@ -4,8 +4,7 @@
 
 Below is a link to my final data story on Shorthand!
 
-[(https://carnegiemellon.shorthandstories.com/veneris_tswd_theenergyflip/index.html)
-](https://carnegiemellon.shorthandstories.com/veneris_tswd_theenergyflip/index.html)
+[(https://carnegiemellon.shorthandstories.com/veneris_tswd_theenergyflip/index.html)](https://carnegiemellon.shorthandstories.com/veneris_tswd_theenergyflip/index.html)
 # Changes made since Part II
 
 Since Part II, I've made quite a few changes to the narrative structure, the Call to Action, and some key components of my visualizations. 
