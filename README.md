@@ -1,4 +1,4 @@
-| [home page](https://iveneris-sys.github.io/veneris-tswd-portfolio/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design.md) | [final project I](final-project-part-one.md) | [final project II](final-project-part-two.md) | [final project III](final-project-part-three.md) | 
+| [home page](README.md) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design.md) | [final project I](final-project-part-one.md) | [final project II](final-project-part-two.md) | [final project III](final-project-part-three.md) | 
 
 # Telling Stories with Data - Isabella Veneris
 
